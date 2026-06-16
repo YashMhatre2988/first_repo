@@ -1,1 +1,2 @@
 this is first file create at home repo
+making changes form patch 1 branch in git bash
